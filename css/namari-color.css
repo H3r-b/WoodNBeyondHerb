@@ -54,7 +54,7 @@ a:hover, #header.nav-solid nav a:hover {
 /* Transparent Navigation Color on a Banner */
 
 #header nav a, #header i {
-    color:#111;
+    color:#E6D5B8;
 }
 
 
@@ -167,7 +167,7 @@ body {
     font-size:62px;
     line-height:60px;
     font-weight:800;
-    color:#111;
+    color:#E6D5B8;
 }
 
 #banner h2 {
